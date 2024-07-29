@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+streamlit
+python-dotenv
+PyMuPDF
+Pillow
+streamlit-extras
+langchain
+openai
+faiss-cpu
+scikit-learn
+reportlab
+=======
+streamlit
+python-dotenv
+PyMuPDF
+Pillow
+streamlit-extras
+langchain
+openai
+faiss-cpu
+scikit-learn
+reportlab
+>>>>>>> eb966d8684017c5740e03bb05f7338fe3139241c
